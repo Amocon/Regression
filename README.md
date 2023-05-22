@@ -7,7 +7,7 @@ Diagnostik
 
 Logistische Regression für Klassifizierungsprobleme (vielleicht out of Scope)
 
-Reihenfolge (nur als Notiz für mich)
+Reihenfolge (nur als Notiz für mich(Mo))
 
 Für die Arbeit:
 
@@ -20,7 +20,7 @@ Grundlagen:
 Praxis: (das Zeug muss im Notebook vorkommen):
         1. Datenpunkte auslesen
         2. Funktion bestimmen (welche Grundtypen gibt es und wie entscheide ich mich richtig?)
-        3. Vermutung für die Variablen aufstellen (wie schätzt man Gut?)
+        3. Vermutung für die Variablen aufstellen (wie schätzt man Gut?) (den Teil löschen)
         4. Auswerten des Curve Fitting
             4.1 optimal parameters auslesen und intreprätieren
             4.2 covarianzpatrix auswerten und analysieren ()
